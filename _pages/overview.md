@@ -7,7 +7,7 @@ permalink: /overview
 ---
 
 
-# NWB:N Overview
+# HDMF Overview
 
 <img alt="HDMF Logo" src="images/hdmf_logo.png" width="600" class="center-block">
 
