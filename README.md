@@ -1,4 +1,4 @@
-# NeurodataWithoutBorders: Neurophysiology
+# Hierarchial Data Modeling Framework (HDMF)
 
 This repo is for the technical website for Hierarchial Data Modeling Framework (HDMF)
 
