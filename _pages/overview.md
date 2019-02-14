@@ -11,8 +11,4 @@ permalink: /overview
 
 <img alt="HDMF Logo" src="images/hdmf_logo.png" width="600" class="center-block">
 
-
-
-
-
-
+HDMF is available online at [https://github.com/hdmf-dev/hdmf](https://github.com/hdmf-dev/hdmf)
