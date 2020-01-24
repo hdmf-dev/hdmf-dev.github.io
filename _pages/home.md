@@ -15,9 +15,9 @@ data APIs that insulate the users from the specification and I/O, enabling the i
 of new data backends and flexible extension of standards.HDMF is also available
 via [PyPI](https://pypi.org/project/hdmf/) and [Conda](https://anaconda.org/conda-forge/hdmf).
 
-In addition to the main HDMF software, we also provides the
-<a href="{{ site.url }}{{ site.baseurl }}/hdmf-common-docs">HDMF Common Schema</a>,
-a format schema that provides common reusable data structures for development of advanced data standards.
+The <a href="{{ site.url }}{{ site.baseurl }}/hdmf-common-docs">HDMF Common Schema</a>,
+provides specifications of common reusable data structures (e.g., dynamic tables) that
+facilitate the design of advanced, modern data standards, e.g., [NWB](https://www.nwb.org/).
 The hdmf-common-schema is included with the main HDMF software so that no separate installation is required.
 
 The [HDMF Documentation Utilities](https://github.com/hdmf-dev/hdmf-docutils)  then provide
