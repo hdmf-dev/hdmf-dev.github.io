@@ -9,7 +9,7 @@ permalink: /publications
 
 # Publications
 
-
+* **A. Tritt, O. Rübel,** B. Dichter, R. Ly, E. Chang, D. Kang, D., L.M. Frank, K.E. Bouchard, K.E., *"HDMF: Hierarchical Data Modeling Framework for Modern Science Data Standards."*, IEEE Big Data, 2019.
 * **Oliver Ruebel, Andrew Tritt**, B. Dichter, T. Braun, N. Cain, N. Clack,
   T. J. Davidson, M. Dougherty, J.-C. Fillion-Robin, N. Graddis,  M. Grauer,
   J. T. Kiggins, L. Niu, D. Ozturk, W. Schroeder, I. Soltesz, F. T. Sommer,
